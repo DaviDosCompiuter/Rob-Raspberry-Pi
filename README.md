@@ -50,7 +50,7 @@ instrução para o usuário
 
 
 ```
-Função: Onde as funções frente, tras, direita, esquerda e pare antes mencionadas neste 
+Função: Onde estão apresentadas as funções frente, tras, direita, esquerda e pare antes mencionadas neste 
 documento, com exceção da função pare que simplesmente para os motores
 ```
 
