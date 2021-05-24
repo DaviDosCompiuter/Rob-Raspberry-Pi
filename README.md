@@ -50,8 +50,8 @@ instrução para o usuário
 
 
 ```
-Função: Onde estão apresentadas as funções frente, tras, direita, esquerda e pare antes mencionadas neste 
-documento, com exceção da função pare que simplesmente para os motores
+Função: Onde estão apresentadas as funções frente, tras, direita, esquerda e pare antes mencionadas 
+neste documento, com exceção da função pare que simplesmente para os motores
 ```
 
 ![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/C2.png)
