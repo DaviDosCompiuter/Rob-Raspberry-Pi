@@ -1,7 +1,7 @@
 # Robo-Raspberry-Pi
 Projeto para avaliação da disciplina de sistemas embarcados
 
-O esquematico abaixo representa todos os componentes utilizados na montagem:
+O esquemático abaixo representa todos os componentes utilizados na montagem:
 ```
 *1 Raspberry Pi 3 Model B
 *1 Notebook
@@ -35,4 +35,33 @@ Andar para direita: Colocando nível alto no EN1 e nível baixo no EN2, EN3 e EN
 Andar para esquerda: Colocando nível alto no EN3 e nível baixo no EN1, EN2 e EN4
 ```
 
-![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/R3.png)
+![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/R4.png)
+
+O codigo do projeto está em "Carrinho.py", onde está dividido em 3 partes:
+
+```
+Setup: Onde estão importadas as bibliotecas necessarias para a realização do projeto, os GPIOS para controlar o driver de motor utilizados são os 3,5,7 e 8 configurados como saída e inializadas em nível baixo para não correr o risco que o robô se movimente e por fim uma mensagem de instrução para o usuário
+```
+
+![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/C1.png)
+
+
+```
+Função: Onde as funções frente, tras, direita, esquerda e pare antes mencionadas nesse documento, com exceção da função pare que simplesmente para os motores
+```
+
+![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/C2.png)
+
+
+
+```
+Repetição: Onde fica constantemente esperando um comando de entrada para que faça com o que o robô se movimente
+```
+
+![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/C3.png)
+
+```
+A montagem final está ilustrada na imagem a seguir.
+```
+
+![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/Montagem.jpg)
