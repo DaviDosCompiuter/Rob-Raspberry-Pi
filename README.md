@@ -3,9 +3,9 @@ Projeto para avaliação da disciplina de sistemas embarcados
 
 O esquematico abaixo representa todos os componentes utilizados na montagem:
 ```
-*1 Raspberry Pi 3 Model B
-*1 Notebook
-*1 Ponte H L298N
+*.1 Raspberry Pi 3 Model B
+.*1 Notebook
+\*1 Ponte H L298N
 *2 Motores DC 3-6V
 *1 Pack de pilhas AAA
 *1 PowerBank
