@@ -13,9 +13,7 @@ O esquemático abaixo representa todos os componentes utilizados na montagem:
 
 ![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/Esquematico.png)
 
-O projeto consiste em um carrinho que se comunica por Wi-Fi com um computador através de um acesso remoto "SSH". 
-Para o movimento do robô é necessário controlar as entras do driver de motor(L298N) através de 4 entradas Enable. 
-Isso permite que o robô realize 4 operações:
+O projeto consiste em um carrinho que se comunica por Wi-Fi com um computador através de um acesso remoto "SSH". Para o movimento do robô é necessário controlar as entras do driver de motor(L298N) através de 4 entradas Enable. Isso permite que o robô realize 4 operações:
 ```
 Andar para frente: Colocando nível alto no EN1 e EN3 e nível baixo no EN2 e EN4
 ```
@@ -42,7 +40,10 @@ Andar para esquerda: Colocando nível alto no EN3 e nível baixo no EN1, EN2 e E
 O codigo do projeto está em "Carrinho.py", onde está dividido em 3 partes:
 
 ```
-Setup: Onde estão importadas as bibliotecas necessarias para a realização do projeto, os GPIOS para controlar o driver de motor utilizados são os 3,5,7 e 8 configurados como saída e inializadas em nível baixo para não correr o risco que o robô se movimente e por fim uma mensagem de instrução para o usuário
+Setup: Onde estão importadas as bibliotecas necessarias para a realização do projeto,
+os GPIOS para controlar o driver de motor utilizados são os 3,5,7 e 8 configurados como
+saída e inializadas em nível baixo para não correr o risco que o robô se movimente e por
+fim uma mensagem de instrução para o usuário
 ```
 
 ![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/C1.png)
