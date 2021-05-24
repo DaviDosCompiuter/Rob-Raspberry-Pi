@@ -41,16 +41,16 @@ O codigo do projeto está em "Carrinho.py", onde está dividido em 3 partes:
 
 ```
 Setup: Onde estão importadas as bibliotecas necessarias para a realização do projeto,
-os GPIOS para controlar o driver de motor utilizados são os 3,5,7 e 8 configurados como
-saída e inializadas em nível baixo para não correr o risco que o robô se movimente e por
-fim uma mensagem de instrução para o usuário
+os GPIOS de controle do driver de motor(3,5,7 e 8 configurados como saída e inializados
+em nível baixo para garantir que o robô não se movimente) e por fim uma mensagem de 
+instrução para o usuário
 ```
 
 ![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/C1.png)
 
 
 ```
-Função: Onde as funções frente, tras, direita, esquerda e pare antes mencionadas nesse 
+Função: Onde as funções frente, tras, direita, esquerda e pare antes mencionadas neste 
 documento, com exceção da função pare que simplesmente para os motores
 ```
 
@@ -59,8 +59,8 @@ documento, com exceção da função pare que simplesmente para os motores
 
 
 ```
-Repetição: Onde fica constantemente esperando um comando de entrada para que faça com 
-o que o robô se movimente
+Repetição: Onde constantemente espera o comando de entrada do usuário para movimentação
+do robô
 ```
 
 ![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/C3.png)
