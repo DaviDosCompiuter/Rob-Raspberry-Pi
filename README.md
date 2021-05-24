@@ -1,7 +1,7 @@
 # Robo-Raspberry-Pi
 Projeto para avaliação da disciplina de sistemas embarcados
 
-O esquemático abaixo representa todos os componentes utilizados na montagem:
+O esquemático abaixo ilustra todos os componentes utilizados na montagem:
 ```
 *1 Raspberry Pi 3 Model B
 *1 Notebook
