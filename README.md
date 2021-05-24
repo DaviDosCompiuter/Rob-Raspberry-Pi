@@ -13,7 +13,9 @@ O esquemático abaixo representa todos os componentes utilizados na montagem:
 
 ![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/Esquematico.png)
 
-O projeto consiste em um carrinho que se comunica por Wi-Fi com um computador através de um acesso remoto "SSH". Para o movimento do robô é necessário controlar as entras do driver de motor(L298N) através de 4 entradas Enable. Isso permite que o robô realize 4 operações:
+O projeto consiste em um carrinho que se comunica por Wi-Fi com um computador através de um acesso remoto "SSH". 
+Para o movimento do robô é necessário controlar as entras do driver de motor(L298N) através de 4 entradas Enable. 
+Isso permite que o robô realize 4 operações:
 ```
 Andar para frente: Colocando nível alto no EN1 e EN3 e nível baixo no EN2 e EN4
 ```
