@@ -50,7 +50,8 @@ fim uma mensagem de instrução para o usuário
 
 
 ```
-Função: Onde as funções frente, tras, direita, esquerda e pare antes mencionadas nesse documento, com exceção da função pare que simplesmente para os motores
+Função: Onde as funções frente, tras, direita, esquerda e pare antes mencionadas nesse 
+documento, com exceção da função pare que simplesmente para os motores
 ```
 
 ![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/C2.png)
@@ -58,7 +59,8 @@ Função: Onde as funções frente, tras, direita, esquerda e pare antes mencion
 
 
 ```
-Repetição: Onde fica constantemente esperando um comando de entrada para que faça com o que o robô se movimente
+Repetição: Onde fica constantemente esperando um comando de entrada para que faça com 
+o que o robô se movimente
 ```
 
 ![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/C3.png)
