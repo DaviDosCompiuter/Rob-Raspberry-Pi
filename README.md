@@ -70,3 +70,8 @@ A montagem final está ilustrada na imagem a seguir.
 ```
 
 ![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/Montagem.jpg)
+
+```
+Um video demonstando a utilização do projeto é apresentado a seguir.
+```
+https://drive.google.com/drive/folders/1PoHG-X3tjLGGhqbecNhksbgeYNA9Yo_-
