@@ -74,4 +74,4 @@ A montagem final está ilustrada na imagem a seguir.
 ```
 Um video demonstando a utilização do projeto é apresentado a seguir.
 ```
-https://drive.google.com/drive/folders/1PoHG-X3tjLGGhqbecNhksbgeYNA9Yo_-
+https://drive.google.com/file/d/1SQElVlmRWGI77ao3GvxEDGE3MhttOQvP/view?usp=sharing
