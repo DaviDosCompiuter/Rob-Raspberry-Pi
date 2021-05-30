@@ -1,5 +1,9 @@
 # Robo-Raspberry-Pi
 Esse Github objetiva aplicar os conhecimentos da disciplina de sistemas embarcados do Instituto Federal de Campina Grande para obtenção de nota
+```
+Um video demonstando a utilização do projeto é apresentado a seguir.
+```
+https://drive.google.com/file/d/1SQElVlmRWGI77ao3GvxEDGE3MhttOQvP/view?usp=sharing
 
 A documentação para a reprodução do projeto está em "doc/Artigo.pdf"
 
@@ -82,8 +86,3 @@ A montagem final está ilustrada na imagem a seguir.
 ```
 
 ![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/Hardware/Montagem.jpg)
-
-```
-Um video demonstando a utilização do projeto é apresentado a seguir.
-```
-https://drive.google.com/file/d/1SQElVlmRWGI77ao3GvxEDGE3MhttOQvP/view?usp=sharing
