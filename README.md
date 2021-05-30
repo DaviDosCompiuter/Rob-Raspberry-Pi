@@ -19,7 +19,8 @@ O esquemático da montagem abaixo ilustra todos os componentes utilizados na mon
 ![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/Hardware/Esquematico_de_montagem.png)
 
 ```
-A simulação gerada a partir do proteus 8.9 está em "Simulador/Davi_Projeto_Proteus.pdsprj" junto com o codigo "Simulador/Codigo.txt" ilustrada abaixo
+A simulação gerada a partir do proteus 8.9 está em "Simulador/Davi_Projeto_Proteus.pdsprj"
+junto com o codigo "Simulador/Codigo.txt" ilustrada abaixo
 ```
 
 ![img](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/Hardware/Esquematico_Proteus.png)
