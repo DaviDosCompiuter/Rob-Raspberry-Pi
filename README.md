@@ -87,4 +87,4 @@ A montagem final está ilustrada na imagem a seguir.
 Um video demonstando a utilização do projeto é apresentado a seguir.
 ```
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/JyRdz6OiRi8)
+[![Watch the video](https://github.com/DaviDosCompiuter/Robo-Raspberry-Pi/blob/main/doc/Imagem_Video.png)](https://youtu.be/JyRdz6OiRi8)
